@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kemdev
+- 👋 Hi, I’m Kareem
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning at University of the People
+- 🌱 I’m currently learning at DCI 
 - 💞️ I’m looking to collaborate on some real project on web develop or web design
 - 📫 How to reach me abdulkarim.alarmanazi@gmail.com
 
