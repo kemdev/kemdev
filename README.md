@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="20" >\ from Syria-Germany.
-- 👋 Hi, I’m Kareem
+- 🏗️ I'm web developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning at DCI 
 - 💞️ I’m looking to collaborate on some real project on web develop or web design
@@ -61,13 +61,13 @@ I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBt
 ### 🤓 My Stats:
  <div>
    
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemdev&show_icons=true&theme=github_dark&hide_border=true&icon_color=fff&title_color=fff&hide_title=true)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemdev&show_icons=true&theme=github_dark&hide_border=true&icon_color=fff&title_color=fff&hide_title=true)](#)
    
 </div>
   
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemdev&show_icons=true&theme=github_dark&hide_border=true&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemdev&show_icons=true&layout=compact&theme=github_dark&hide_border=true&icon_color=fff&title_color=fff)](#)
   
 </div>
  <h1 /> 
