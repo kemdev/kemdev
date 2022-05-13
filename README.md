@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+	<img src='https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif' width='100' />
+<!-- 	<img src='https://media.giphy.com/media/kEWaYdvMwTIduesqGe/giphy.gif' width='100' /> -->
   <div id="badges" >
   <a href="https://www.linkedin.com/in/abdulkarim-alarmanazi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -12,7 +14,7 @@
   
   
 <h1>
-  hey there
+  Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -24,14 +26,14 @@
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="20" >\ from Syria-Germany.
-- 🏗️ I'm web developer
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning at DCI 
-- 💞️ I’m looking to collaborate on some real project on web develop or web design
-- 📫 How to reach me 
+- 📌 My nickname is Kareem.
+- 👀 I'm looking for job right now.
+- 🌱 And I will graduate from [![DCI](https://coursereport-production.imgix.net/uploads/school/logo/612/original/DCI__logo_wordmark_blue.png?w=40&h=40&dpr=2&q=50)](https://digitalcareerinstitute.org/courses/web-development-course#:~:text=and%20modern%20CSS-,Frameworks,-.) as a fullstack web developer in Jun 2022
+- 💞️ In my freetime I learn about new technologies and Build a some websites.
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kareem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkarim-alarmanazi/)
 
 
----
+<h1 />
 
 ### 🛠️ Languages and Tools :
 
