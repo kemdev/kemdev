@@ -1,7 +1,10 @@
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-	<img src='https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif' width='100' />
-<!-- 	<img src='https://media.giphy.com/media/kEWaYdvMwTIduesqGe/giphy.gif' width='100' /> -->
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
+	<!-- <img src='https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif' width='100' /> -->
+ 	<!-- <img src='https://media.giphy.com/media/kEWaYdvMwTIduesqGe/giphy.gif' width='100' /> -->
+ 	<!--<img src='https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif' width='100' /> -->
+	
+
   <div id="badges" >
   <a href="https://www.linkedin.com/in/abdulkarim-alarmanazi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
