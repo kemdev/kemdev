@@ -49,7 +49,9 @@ I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBt
 ### 🛠️ Languages and Tools :
 
 <div  height='40'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40"  />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  width='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='40' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
@@ -60,6 +62,9 @@ I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBt
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width='40' />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width='40' />
+
+
 
 
   
@@ -69,6 +74,8 @@ I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBt
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+	
+
 
 ---
 ### 🤓 My Stats:
