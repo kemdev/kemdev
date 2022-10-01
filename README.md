@@ -38,8 +38,7 @@
 ### 👨‍💻 About Me :
 I am a Full Stack Developer ┌<img src="https://media.giphy.com/media/7FgozREBtahrxYNsYN/giphy.gif" width="20" >\ from Syria-Germany.
 - 📌 My nickname is Kareem.
-- 👀 I'm looking for job right now.
-- 🌱 And I graduated from [![DCI](https://coursereport-production.imgix.net/uploads/school/logo/612/original/DCI__logo_wordmark_blue.png?w=40&h=40&dpr=2&q=50)](https://digitalcareerinstitute.org/courses/web-development-course#:~:text=and%20modern%20CSS-,Frameworks,-.) as a Full-Stack Web Developer in June 2022
+- 👀 I'm working as a fullstack web developer.
 - 💞️ In my freetime I learn about new technologies and Build a some websites.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kareem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkarim-alarmanazi/)
 - 💼 My portfolio [![Portfolio ](https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=Portfolio')](https://alarmanazi.me/)
